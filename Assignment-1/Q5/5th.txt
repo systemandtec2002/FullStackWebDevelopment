@@ -1,0 +1,6 @@
+5)what is the  doctype declaration in html?
+
+Ans= html <!doctype> tag is used to inform the browser about the version of html used in the document it is called document type declaration.
+it is not tag or element it is a null element <!doctype> does not contain the closing tag and not include any content within it.
+a doctype declaration appears at the top of web page befre all other elements.
+this ensure that the web page is parsed the same way by differant web browser.

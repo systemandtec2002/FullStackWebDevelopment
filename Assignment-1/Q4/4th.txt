@@ -1,0 +1,18 @@
+4) write  a short note on tag and element with an example?
+
+Ans= html tag like  keywords which defines that how web browser will format and display 
+the content. with the help of tags a web browser can distigush between an html content and simple content.
+html tag contain three main parts open tag,content and closing tag.
+each tag enclosed between two angle brackets. in html, it is mandatory to close an open tag.
+the open tags are closed using closing forword slash.
+
+example of tag= <h1></h1>, <span></span>, <title></title>
+
+what is element?
+Ans= An html element is a collection of start tag and wnd tags with
+the content inserted between them.
+An html file is made up of elements.
+these elements are responsible for creating web.
+pages and define content in that web pages.
+Ex:-<p>Welcome to PW SKILL.COM</p>
+    <h1>This is from pw skill</h1>
