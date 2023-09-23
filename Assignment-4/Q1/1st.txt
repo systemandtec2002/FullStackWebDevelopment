@@ -1,0 +1,34 @@
+Q1)  List out of the feachers of html5?
+
+
+ feachers of html5=
+
+
+1) Audio and video : Audio and video tags are the two major addition to HTML5
+        HTML5 makes adding video super fast and without having to build  a video player,this saves time for a developer.
+
+
+2)nav tag: The  <nav>  tag defines a set of navigation links. it is used for a part of an intertnate that links to different pages at the website.
+
+for eg= <h1> Html Nav tag </h1>
+<a href= "/home/">home </a>
+<a href= "/feedback/"> feedback</a>
+<a href= "/contact/"> contact</a>
+<a href= "/Help/"> Help </a>
+
+3) Header and Footer: These new tags eliminate the requirement for a div> tag to separate the two parts. 
+The footer appears at the bottom of the page, whereas the header appears at the top. The browser will know what to load first and what to load later  we use the HTML5 elements header and footer.
+
+4)placeholder attribute:
+The placeholder attribute specifies a short hint that describes the expected value of an input field/text area. 
+The short hint is displayed in the field before the user enters a value.
+
+
+5)Email attribute:
+
+When in a form we write the type as email, 
+then browser by itself gets the instruction from the code to write an email with the proper as well as valid format of writing an email. This was not possible in the earlier browsers.
+
+6)Accessibility:
+With the invent of HTML5 it has played a great role in providing the best of the accessibility features to a website. This has made the use of website simplified. the people of almost an kind of disability such as visually impaired, color blind, low vision, blind etc can have access to the websites that have been designed with the accessibility features of HTML5.
+

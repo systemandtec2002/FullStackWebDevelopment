@@ -1,0 +1,31 @@
+Q2)what are html entities? list out 5 commonly used html entities?
+
+Ans= Html entities are reserved character that are used in  the html document.
+they are not present in our standard keyboard. html entities provide wide range of characters.
+such like add icons, geometric shapes, mathematical operators and so on.
+
+list 5 commonly used html entities below =
+1)less than (&lt;)
+2)greater  than (&gt;)
+3)ampersand  (&amp;)
+4)double quotation mark (&quot;)
+5)non breking space (&nbsp;)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
