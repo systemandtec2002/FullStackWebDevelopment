@@ -1,0 +1,9 @@
+Q4)list any three ways which help us in improving the accessibility of html?
+
+Ans= 1)Use Sementic HTML: sementic html elements like headings (<h1> to <h6>),list (<ul>,<ol>,<li>),
+and form controls (<input>,<label>,<textarea>) providind meaning and structure to your content,making
+it easier for screen readers and other assistive techonlogies to interpret and preesnt the information.
+    2) Add Alt Text to images:
+    when including images in your html,always provide  descriptive alternative text using the "alt" attribute(<img alt= "description">).this text is read aloud by screen readers,allowing visually impaired users to understand the content and purpose of the image.
+    3)Implement keyboard Navigation:
+    ansure that all interactive elements and nevigation on your web page are accessible via keyboard input. test your website usingonly the keyboared to navigate through links,forms,and other elements to make sure it is usable by individuals who rely on keyboard navigation or voice commands.
