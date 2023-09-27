@@ -1,0 +1,18 @@
+Q3) what are the beanifits  of using meta tags?
+Ans= 
+i) IMPROVED SEO =
+meta tags, particularly the meta title ant meta description, play a crucial role in
+helping search engines understand the content of a web page.
+
+ii)ENHANCE USER EXPERIENCE=
+a well crafed meta description provides a concise summary of the pages content in the search results.
+this can attaract users to click on your link, increasing traffic and click-through rates.
+
+iii) SOCISL MEDIA SHARING =
+meta tags like open graph and twitter cards enable you to to control how your content appears when shared on social dia meplatforms.
+this can make your shared links more appealing and engaging.
+iv)BROWSER COMPATIBILITY =
+meta tage can help ensure your web pages display correctly across different 
+web browser by providing essential information about character encoding and viewport setting.
+ACCESSIBILITY= some meta tags, like  the meta viewport tag, can enhance the accesssibility
+of your website by optimizing it for mobile devices and ensuring responsive design.

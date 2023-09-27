@@ -1,0 +1,13 @@
+1) what is seo and explain the importance of seo?
+Ans= SEO(search engine optimisation) is a process of making website more visible in search results, also
+termed improving search rankings.
+search engine crwal the web, following link from page to page,and index the content found.
+when we search, the search engine displays the indexed content. crowllers follow rules.
+
+IMPORTANCE OF SEARCH ENGINE=
+search engines essentialy acts as filters for the wealth of information available on the internate.
+they allow users to quikely and easily find information that is of genuine interest or value.
+ii)seach engines provides users with search results that lead to relevent informationon high-quality website.
+ iii)keyword reaseach is the process of rreasearching,identifying,and prioritizing search term with the goal of creating content that ranks for those search terms.
+ iv)ranking well in seach resultsfor queries realated to your content,products or services can increse your website traffic.
+ v)seo is not just about the main keyword.it's also important to include terms related to the main term people are searching for.

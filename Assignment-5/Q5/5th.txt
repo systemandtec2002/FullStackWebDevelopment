@@ -1,0 +1,13 @@
+5) define favicon?
+Ans= a favicon is a small image displayed next to the page titlein the browser tab.
+we can also creat our own favicon on sites like https://favicon.cc.Tip: favicon is a small image,
+so it should be a simple image with high contrast.
+
+
+
+
+
+
+
+
+
