@@ -1,0 +1,60 @@
+
+       *{
+        margin: 0px;
+        padding: 0px;
+        text-decoration: none;
+       } 
+
+       body{
+        color:white;
+       }
+      .navbar{
+        width: 100%;
+        height:40px;
+        background-color:rgba(0,0,255,0.5);
+
+        box-shadow: 0 0 25px 0 black;
+         padding-top:15px;  
+     
+      } 
+      
+       
+    
+
+      .navbar li{
+        display:inline;
+       margin-left: 180px; 
+
+       
+     } 
+     
+     .navbar a{
+        color:beige;
+        text-align: center;
+       
+        
+     }
+    
+.home{
+ border: 2px dashed red;
+}
+
+.box{
+  border: 2px dashed black; 
+}
+
+.box1{
+  border: 2px dashed purple; 
+}
+
+.box2{
+  border: 2px dashed blue; 
+}
+
+
+.box3{
+  border: 2px dashed yellow; 
+}
+
+    
+   

@@ -1,0 +1,45 @@
+ /* CSS rules using class selectors for distinct styling */
+        
+        /* Block */
+        .paragraph {
+            font-size: 16px;
+            margin: 10px;
+            padding: 10px;
+            border: 1px solid #333;
+        }
+        
+        /* Element Modifier 1 */
+        .paragraph__first {
+            background-color: lightblue;
+        }
+        
+        /* Element Modifier 2 */
+        .paragraph__second {
+            background-color: lightgreen;
+        }
+        
+        /* Element Modifier 3 */
+        .paragraph__third {
+            background-color: lightcoral;
+        }
+        
+        /* Element Modifier 4 */
+        .paragraph__fourth {
+            background-color: lightpink;
+        }
+        
+        /* Element Modifier 5 */
+        .paragraph__fifth {
+            background-color: lightseagreen;
+        }
+        
+        /* Element Modifier 6 */
+        .paragraph__sixth {
+            background-color: lightsalmon;
+        }
+        
+        /* Element Modifier 7 */
+        .paragraph__seventh {
+            background-color: lightyellow;
+        }
+    </style>

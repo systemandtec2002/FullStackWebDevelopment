@@ -1,0 +1,48 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.banner{
+    background-color: aqua;
+    width:350px;
+    height:330px;
+    margin: 30px;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding-bottom:30px ;
+    text-align: center;
+    
+    
+    
+   
+   
+
+}
+
+.image{
+    width:290px;
+    height:300px;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius: 20px;
+   
+}
+
+   
+
+
+.hoverable-image {
+
+    width:290px;
+    height:300px;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius: 20px;
+   
+    transition: opacity 0.3s; 
+}
+
+.hoverable-image:hover {
+    opacity: 0.7; 
+}
