@@ -3,3 +3,47 @@
     padding: 0px;
 }
 
+#LOGO{
+    text-align: center;
+  }
+  .container{
+    border:1px solid black;
+    width:400px;
+    height: 270px;
+    padding: 50px;
+    background-color: blanchedalmond;
+    
+   
+  }
+  .card{
+width:70px;
+height:70px;
+border: 2px solid black;
+position: relative;
+margin: 0 auto;
+
+  }
+  .card1{
+    background-color: blue;
+    top:20px;
+    left:60px;
+    
+  }
+  .card2{
+    background-color:pink;
+    left:50px;
+    top:60px; 
+     z-index: 2; 
+  }
+  .card3{
+    background-color: aqua;
+    left:70px;
+    bottom:40px;
+   
+  }
+
+  .card4{
+    background-color: black;
+    bottom:30px;
+    z-index: 2;
+  }
