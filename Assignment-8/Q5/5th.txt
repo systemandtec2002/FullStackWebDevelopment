@@ -1,0 +1,3 @@
+Q5) explain the Z-index?
+Ans=z-index is the CSS property that controls the stacking order of overlapping elements on a page. An element with a higher z-index value will appear in front of an element with a lower z-index value. The property is called “z-index” because it sets the order of elements along the z-axis.1
+The z-index CSS property sets the z-order of a positioned element and its descendants or flex and grid items. Overlapping elements with a larger z-index cover those with a smaller one.

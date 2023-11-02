@@ -1,0 +1,43 @@
+
+
+
+.box{
+    width:50px;
+    height: 50px;
+    background-color: aquamarine;
+  position: absolute;
+  border: 1px solid yellow;
+}
+
+.boxA{
+    top:200px;
+    left:200px;
+    z-index: 2;
+}
+
+
+  .boxB{
+  top: 170px;
+    left: 170px;
+  }
+  
+  
+  
+  .boxC{
+    top: 170px;
+    left: 230px;
+  }
+  
+  .boxD{
+    top:230px;
+    left: 170px;
+
+  }
+
+  .boxE{
+    top:230px;
+    left: 230px;
+
+  } */
+
+  

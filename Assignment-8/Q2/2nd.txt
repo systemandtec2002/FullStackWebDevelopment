@@ -1,0 +1,12 @@
+Q2)  Explain  the differance between absolute and relative?
+
+
+
+relative  position:  Setting the top, right, bottom, and left properties of an element with position: relative; property will cause it to adjust from its normal position. The other objects or elements will not fill the gap.Relative - the element is positioned relative to its normal position. Absolute - the element is positioned absolutely to its first positioned parent.
+
+
+
+
+absolute position:       An element with position: absolute; will cause it to adjust its position with respect to its parent. If no parent is present, then it uses the document body as parent. An absolutely positioned element is an element whose computed position value is absolute or fixed . The top , right , bottom , and left properties specify offsets from the edges of the element's containing block. (The containing block is the ancestor relative to which the element is positioned.
+
+position: absolute;

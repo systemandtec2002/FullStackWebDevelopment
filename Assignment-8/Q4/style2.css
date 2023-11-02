@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    border: 2px solid black;
+}
+
+.header {
+    height: 60px;
+    width: 95vw;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Vertically center content */
+    padding: 0 20px; /* Add some padding to center the logo horizontally */
+    position: fixed;
+ 
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    font-size: 15px;
+    
+}
+
+.navbar li {
+    margin-top: 10px;
+    margin-left: 50px; /* Adjust the margin to your preference */
+    padding: 20px;
+}
+
+.navbar .button button{
+background-color: transparent !important;
+border: 2px solid #a08f36;
+border-radius: 10px;
+color: #a08f36;
+font-family: "Red Rose", cursive;
+padding: 10px 20px;
+}
+section{
+
+padding: 20px;  
+}
+
+

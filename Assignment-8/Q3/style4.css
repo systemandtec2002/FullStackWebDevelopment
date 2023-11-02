@@ -1,0 +1,29 @@
+ *{
+            margin: 0px;
+            padding: 0px;
+        }
+        
+
+        .container{
+            border:2px solid;
+            width: 800px;
+            height: 260px;
+             padding: 20px; 
+            margin: 0 auto;
+            background-color: beige;
+            margin-top: 20px;
+         
+        }
+
+        .image{
+            width:300px;
+            height: 170px;
+            float: right;
+            margin-top:10px;
+        }
+
+        .text{
+            margin: 20px;
+            text-align: centre;
+        }
+   
