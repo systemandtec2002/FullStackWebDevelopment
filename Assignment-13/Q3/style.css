@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:gray;
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  
+}
+
+.circle {
+    
+    /* border: 4px solid rgba(0, 0, 0, 0.1); */
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    animation: circle 1s linear infinite;
+}
+
+@keyframes circle {
+    0%{
+        transform: (0deg);
+        box-shadow: 1px 5px 2px blue;
+    }
+    100% {
+        transform: rotate(180deg);
+    }
+
+   
+
+
+}
+

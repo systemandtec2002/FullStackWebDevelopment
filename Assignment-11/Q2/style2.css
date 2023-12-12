@@ -1,0 +1,20 @@
+.container {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media (min-width: 800px) {
+    .imags {
+        width: 32%;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 800px){
+    .imags {
+        /* width: 100%; */
+        background-color: aqua;
+    }
+}
+  

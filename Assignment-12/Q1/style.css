@@ -1,0 +1,43 @@
+
+nav a {
+ color: red;
+}
+
+nav > h2:first-child {
+color: white;
+background-color: blue;
+}
+
+
+/* Also, select  the first <p> tag and change   the text color to red. */
+nav > p:first-of-type {
+    color: red; 
+}
+
+a[href] {
+    color: red; 
+    text-decoration: none; 
+
+}
+
+a[class="Active"] {
+    color: blue;
+    text-decoration: underline;
+}
+
+a[target="_self"] {
+    background-color: yellow; 
+}
+
+p:last-child::after {
+    content: "...";
+}
+
+li::marker {
+    color:chartreuse;
+}
+
+p:nth-child(even)::first-letter {
+    color: red;
+    font-size: 30px;
+}

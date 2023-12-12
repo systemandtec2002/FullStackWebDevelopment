@@ -1,0 +1,27 @@
+Q2) key properties of flexbox layout model 
+
+i) the css justify-content property defines how the browser distributes space between and around content items along
+the main -axis of flex container
+
+ii) justify-content: The justify-content property aligns the 
+flexible container's  items when the item do not use all available space the main axis(horizontaly)
+
+
+
+2) align-items:
+
+  i)the align-items property specifies the default alignment for items inside a flexbox.
+  ii)  in a container, the flexbox   items are alined on the cross-axis,which is vertically by default  (opposite of flex-direction.)
+
+
+  3)gap:
+  i)the gap property defines the size of the gap between the rows and between the coloumns  in flex-box, grid or multi-coloum layout.
+  ii)it is shorthand property of the row and coloum gap.
+
+  3) flex-direction:
+  i) the flex-direction property specifies the dirction of the flexible items.
+  ii)if the element is not flexible item, the flex direction property no effect.
+
+  4) flex-wrap: The flex-wrap property specifies whether the flexible items should wrap or not.
+
+Note: If the elements are not flexible items, the flex-wrap property has no effect.

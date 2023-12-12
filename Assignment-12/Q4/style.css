@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 10px 40px;
+  border-radius: 15px;
+  margin: 10px;
+  font-size: 27px;
+  background-color: royalblue;
+  border: none;
+}
+
+.button:hover{
+    box-shadow: 5px 4px 6px 5px black;
+    cursor: pointer;
+}
+

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .container {
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: 100px 100px 100px;
+      }
+
+      .box {
+        background-color: bisque;
+        color: #fff;
+        border-radius: 5px;
+        padding: 20px;
+        font-size: 150%;
+        color: black;
+      }
+
+      .boxa {
+        grid-column: 1/3;
+        grid-row: 1;
+      }
+
+      .boxb {
+       grid-row:  1/3; 
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box boxa">A</div>
+      <div class="box boxb">B</div>
+      <div class="box boxc">C</div>
+      <div class="box boxd">D</div>
+      
+    </div>
+  </body>
+</html>

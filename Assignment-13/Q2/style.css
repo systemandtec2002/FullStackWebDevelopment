@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  perspective: 5000px;  
+} 
+
+.cube {
+  height: 300px;
+  width: 300px;
+  transform-style: preserve-3d;
+  position: relative;
+  transform: rotateX(30deg) rotateY(30deg); 
+}
+
+.face {
+  height: 300px;
+  width: 300px;
+  border: 1px solid white;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 255, 0.4); */
+}
+ .face-front {
+  transform: translateZ(150px);
+} 
+
+.face-back {
+  transform: translateZ(-150px);
+} 
+
+.face-right {
+  transform: rotateY(-90deg) translateZ(-150px);
+} 
+
+.face-left {
+  transform: rotateY(90deg) translateZ(150px); /* Corrected rotation direction */
+} 
+
+ .face-top {
+  transform-origin: center center; /* 'centre' corrected to 'center' */
+  transform: rotateX(-90deg) translateZ(-150px); /* Removed spaces between functions and fixed 'rotateX' syntax */
+} 
+
+ .face-bottom {
+  transform-origin: center center; /* 'centre' corrected to 'center' */
+  transform: rotateX(90deg) translateZ(150px); Corrected 'rotateX' syntax and direction
+} 
+
+
