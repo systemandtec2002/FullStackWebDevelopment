@@ -1,0 +1,41 @@
+Q2) Q2. Describe the categorization of operators in JavaScript based on their functionality. Provide examples for
+each category.
+
+Answer = Categorization of JavaScript Operators :=
+
+1) Arithmetic Operators
+Used for performing mathematical calculations.
+
+Examples: +, -, *, /, %, ** (exponentiation)
+
+2)  Assignment Operators
+Assign values to variables.
+
+Examples: =, +=, -=, *=, /=, %=
+
+3)Comparison Operators
+Compare two values and return a boolean (true or false).
+
+Examples: ==, !=, ===, !==, >, <, >=, <=
+
+4)Logical Operators
+Combine boolean values to create more complex conditions.
+
+Examples: && (AND), || (OR), ! (NOT)
+
+5) Bitwise Operators
+Operate on individual bits of numbers.
+
+Examples: &, |, ^, ~, <<, >>, >>>
+
+
+6)Conditional (Ternary) Operator
+A shorthand way to write an if-else statement.
+
+Example: condition ? expression1 : expression2
+
+
+7)String Operators
+Concatenate strings.
+
+
