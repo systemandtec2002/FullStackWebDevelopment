@@ -1,0 +1,18 @@
+Question 1: Explain what JavaScript is and its role in web development.
+
+
+JavaScript: The Heartbeat of Web Development
+JavaScript is a high-level, interpreted programming language that's primarily used to create interactive web pages. It's one of the core technologies of the World Wide Web, alongside HTML and CSS.
+
+
+Role in Web Development
+While HTML structures the content of a webpage and CSS styles its appearance, JavaScript brings it to life. It's responsible for the dynamic and interactive elements you see on websites, such as:
+
+
+
+User interactions: Handling clicks, hovers, form submissions, and other user actions.
+Dynamic content updates: Loading new content without reloading the entire page (e.g., social media feeds, search results).
+Animations and effects: Creating engaging visual experiences.
+Game development: Building interactive games within web browsers.
+Server-side development (Node.js): Creating web applications and APIs.
+Mobile app development: Building cross-platform mobile apps using frameworks like React Native.
