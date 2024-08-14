@@ -1,0 +1,120 @@
+<!-- Q3. What are loops, and what do we need them? Explain different types of loops with their syntax and Examples -->
+
+
+What are Loops? --
+Loops are control flow structures that allow you to repeatedly execute a block of code until a certain condition is met. They are essential for automating repetitive tasks and processing data efficiently.
+
+
+When to Use Loops?
+Iterating over arrays or objects
+
+Repeating actions a specific number of times
+
+Performing calculations or operations multiple times
+
+Creating patterns or generating sequences
+
+
+
+Types of Loops in JavaScript =
+
+
+1. For Loop
+
+A for loop is used when you know the number of times you want to execute a block of code.
+
+for (initialization; condition; increment/decrement) {
+  // code to be executed
+}
+
+
+Example:
+
+
+for (let i = 0; i < 5; i++) {
+  console.log(i);   
+
+}
+
+ output:
+0
+1
+2
+3
+4
+
+
+While Loop
+A while loop is used when you want to execute a block of code as long as a condition is true.
+
+Syntax:
+
+JavaScript
+while (condition) {
+  // code to be executed
+}
+
+Example:
+
+JavaScript
+let count = 0;
+while (count < 5) {
+  console.log(count);
+  count++;
+}
+
+
+ output:
+ 0
+1
+2
+3
+4
+
+3. Do-While Loop
+A do-while loop is similar to a while loop, but the code is executed at least once before the condition is checked.
+
+Syntax:
+
+JavaScript
+do {
+  // code to be executed
+} while (condition);
+
+let count = 0;
+do {
+  console.log(count);
+  count++;
+} while (count < 5);
+
+
+This will also output:
+0
+1
+2
+3
+4
+
+
+4. For...of Loop
+A for...of loop is used to iterate over iterable objects like arrays, strings, and maps.
+
+for (const value of iterable) {
+  // code to be executed
+}
+
+
+Example:
+
+JavaScript
+const fruits = ["apple", "banana", "orange"];
+for (const fruit of fruits) {
+  console.log(fruit);
+}
+
+
+This will output:
+
+apple
+banana
+orange
