@@ -7,3 +7,6 @@ const result = square(numberToSquare);
 
 console.log("The square of", numberToSquare, "is", result);
 
+
+
+
